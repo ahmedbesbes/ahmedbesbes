@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedbesbes&show_icons=true&theme=dracula&bg_color=0,000046,1CB5E0&title_color=fff)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedbesbes&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbesbes&hide=html&layout=compact&theme=tokyonight)](https://github.com/ahmedbesbes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbesbes&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 
 
 <a href="https://github.com/ahmedbesbes/cartoonify">
