@@ -18,7 +18,4 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbesbes&repo=Neural-Network-from-scratch&theme=dracula" />
 </a>    
-<a href="https://github.com/ahmedbesbes/mrnet">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbesbes&repo=mrnet&theme=dracula" />
-</a>
+
