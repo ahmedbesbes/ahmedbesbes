@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Ahmed, I'm a Machine Learning Engineer. I like building things, writing or making videos about them.
+
+You can follow me on:
+
+- my [blog](https://ahmedbesbes.com) 💻 
+- my Youtube [channel](https://www.youtube.com/channel/UCP1M7FpkpNljH4r6ORiRg6g) 🎥 
+- [Medium](https://medium.com/@ahmedbesbes)
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedbesbes&show_icons=true&theme=dracula)
 
 
