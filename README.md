@@ -46,3 +46,8 @@ You can follow me on:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbesbes&repo=media-agent&theme=cobalt2" />
 </a>
+
+<a href="https://github.com/ahmedbesbes/anonymization-api">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbesbes&repo=anonymization-api&theme=cobalt2" />
+</a>
