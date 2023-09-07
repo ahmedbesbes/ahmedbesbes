@@ -6,7 +6,9 @@ You can follow me on:
 
 - [Medium](https://medium.com/@ahmedbesbes)
 - my Youtube [channel](https://www.youtube.com/channel/UCP1M7FpkpNljH4r6ORiRg6g) 🎥 
-- my [blog](https://ahmedbesbes.com) 💻 
+- my [blog](https://ahmedbesbes.com) 💻
+
+- **NEW** You can now follow my [newsletter](https://thetechbuffet.substack.com/)!
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedbesbes&show_icons=true&theme=cobalt)
 
